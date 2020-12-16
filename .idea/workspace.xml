@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91ea1b29-c4c5-409e-bee8-455291c7573f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bai-tap/Refactoring/php-cleancode-refactoring-exercise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai-tap/Refactoring/php-cleancode-refactoring-exercise/TennisGame.php" beforeDir="false" afterPath="$PROJECT_DIR$/bai-tap/Refactoring/php-cleancode-refactoring-exercise/TennisGame.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuc-hanh/Refactoring-change-var-and-sepration-constant /php-cleancode-refactoring-renaming/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuc-hanh/Refactoring-change-var-and-sepration-constant /php-cleancode-refactoring-renaming/src/Calculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/thuc-hanh/Refactoring-change-var-and-sepration-constant /php-cleancode-refactoring-renaming/src/Calculator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuc-hanh/Refactoring-change-var-and-sepration-constant /php-cleancode-refactoring-renaming/tests/CalculatorTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/thuc-hanh/Refactoring-change-var-and-sepration-constant /php-cleancode-refactoring-renaming/tests/CalculatorTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuc-hanh/Refactoring-split-mode/php-cleancode-refactoring-method-extraction/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuc-hanh/Refactoring-split-mode/php-cleancode-refactoring-method-extraction/src/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/thuc-hanh/Refactoring-split-mode/php-cleancode-refactoring-method-extraction/src/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuc-hanh/Refactoring-split-mode/php-cleancode-refactoring-method-extraction/test/CylinderTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/thuc-hanh/Refactoring-split-mode/php-cleancode-refactoring-method-extraction/test/CylinderTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuc-hanh/Refactoring-split-variable/php-cleancode-refactoring-variable-extraction/FizzBuzz.php" beforeDir="false" afterPath="$PROJECT_DIR$/thuc-hanh/Refactoring-split-variable/php-cleancode-refactoring-variable-extraction/FizzBuzz.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuc-hanh/Refactoring-split-variable/php-cleancode-refactoring-variable-extraction/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bai-tap/Refactoring/php-cleancode-refactoring-exercise" />
+  </component>
+  <component name="ProjectId" id="1liWTyoDJpY54QFihcPSItw5ZYP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91ea1b29-c4c5-409e-bee8-455291c7573f" name="Default Changelist" comment="" />
+      <created>1608080403947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608080403947</updated>
+      <workItem from="1608080405016" duration="312000" />
+      <workItem from="1608100814062" duration="4476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/bai-tap/Refactoring/php-cleancode-refactoring-exercise" />
+      <path value="$PROJECT_DIR$/thuc-hanh/Refactoring-change-var-and-sepration-constant /php-cleancode-refactoring-renaming" />
+      <path value="$PROJECT_DIR$/thuc-hanh/Refactoring-split-mode/php-cleancode-refactoring-method-extraction" />
+      <path value="$PROJECT_DIR$/thuc-hanh/Refactoring-split-variable/php-cleancode-refactoring-variable-extraction" />
+    </ignored-roots>
+  </component>
+</project>
